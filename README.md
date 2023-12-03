@@ -13,6 +13,7 @@ You can visit the Tableau public dashboards [Analysing players in respect of the
 
 ## Findings and Observations from the Dashboard
 [Analysing players in respect of their clubs](https://public.tableau.com/app/profile/md.kabin.hasan.kanchon/viz/TrendingFIFAplayersanalysis/Dashboard1):
+![Analysing players in respect of their clubs image](https://github.com/kavinh07/trending-FIFA-players/blob/main/images/analysing_players_in_respect_of_their_clubs.png)
   1. From the bar chart, we can see the top 20 players according to their overalls. They are in different colours in respect of their current clubs.
   2. From the pie chart, we find out that Real Madrid has the most valuable players. And also the other clubs and their values that are on the top list.
   3. From the density graph, we can see that approximately players between 20-33 years old have better stats than others.
