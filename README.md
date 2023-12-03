@@ -14,7 +14,7 @@ We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. 
   - Current_contract
   - Value
   - Wage
-  - Total_stats
+  - Total_stats </br>
 Then we have done some data processing using Python libraries like pandas and re.
 By organising the data in Tableau, we tried to understand:
   1. Which country has how many players on the trending FIFA players website and what is the total value?
