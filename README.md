@@ -1,15 +1,17 @@
 # trending-FIFA-players
 
 ## Problem statements
-This is a repository of web scrapping using selenium from [this website](https://sofifa.com/players).<br/>
-It scrapped 3000 trending FIFA players' data. We tried to understand:
+This is a trending FIFA player's data analysis project where we have done web scrapping using selenium from this [website](https://sofifa.com/players).
+We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. 
+Then we have done some data processing using Python libraries like pandas and re.
+By organising the data in Tableau, we tried to understand:
   1. Which country has how many players on the trending FIFA players website and what is the total value?
   2. Who are the top players in the trending sheet?
   3. PLayers of which age have good stats?
   4. Which players are ruling in the trending player's list?
   5. Top clubs having the most valued players in the trending list?
      
-You can visit the Tableau public dashboards [Analysing players in respect of their clubs](https://public.tableau.com/app/profile/md.kabin.hasan.kanchon/viz/TrendingFIFAplayersanalysis/Dashboard1) and [Analysing players in respect of their national teams](https://public.tableau.com/views/TrendingFIFAplayersanalysis/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link) to see the analyses.
+You can visit the Tableau public dashboards [Analysing players in respect of their clubs](https://public.tableau.com/app/profile/md.kabin.hasan.kanchon/viz/TrendingFIFAplayersanalysis/Dashboard1) and [Analysing players in respect of their national teams](https://public.tableau.com/views/TrendingFIFAplayersanalysis/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link) to see the analysis.
 
 ## Findings and Observations from the Dashboard
 [Analysing players in respect of their clubs](https://public.tableau.com/app/profile/md.kabin.hasan.kanchon/viz/TrendingFIFAplayersanalysis/Dashboard1):
