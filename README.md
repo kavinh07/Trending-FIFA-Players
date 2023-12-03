@@ -1,7 +1,7 @@
 # trending-FIFA-players
 
 ## Problem statements
-This is a trending FIFA player's data analysis project where we have done web scrapping using selenium from this [website](https://sofifa.com/players).
+This is a trending FIFA player's data analysis project where we have done web scraping using selenium from this [website](https://sofifa.com/players).
 We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. 
 Then we have done some data processing using Python libraries like pandas and re.
 By organising the data in Tableau, we tried to understand:
