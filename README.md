@@ -20,6 +20,7 @@ You can visit the Tableau public dashboards [Analysing players in respect of the
   4. The bubble graph shows the top 20 young players (18-25 years old) and their value comparison. They are also coloured according to their current clubs.
      
 [Analysing players in respect of their national teams](https://public.tableau.com/views/TrendingFIFAplayersanalysis/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link):
+![Analysing players in respect of their national teams image](https://github.com/kavinh07/trending-FIFA-players/blob/main/images/analysing_players_in_respect_of_their_national_teams.png)
   1. From the first bar chart, we can see that Spain has the most value and England has the most number of players. The bar chart shows the national team rankings by the total value in the trending list. It also shows the total number of players on the list.
   2. From the graphical graph, we can find out each country's values and total number of players by their spatial position.
   3. From the last bar chart, we can see the same top player rankings but coloured concerning national teams.
