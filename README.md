@@ -29,7 +29,7 @@ You can visit the Tableau public dashboards [Analysing players in respect of the
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repository
 ```bash
-git clone https://github.com/kavinh07/Trending-Fifa-Players-Webscrapping.git
+git clone https://github.com/kavinh07/trending-FIFA-players.git
 ```
 2. Initialize and activate the virtual environment
 ```bash
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 4. Run the fifa_players_scrapper.py
 ```bash
-python Fifa_Players_Webscrapping/fifa_players_scrapper.py
+python trending-FIFA-players/scraper.py
 ```
 6. You will get a file named `trending_football_players.xlsx` containing all the required fields. 
-Alternatively, check our scraped data [here](https://github.com/kavinh07/Trending-Fifa-Players-Webscrapping/blob/main/Fifa_Players_Webscrapping/trending_football_players.xlsx).
+Alternatively, check our scraped data [trending_football_players.xlsx](https://github.com/kavinh07/trending-FIFA-players/blob/main/data/trending_football_players.xlsx).
