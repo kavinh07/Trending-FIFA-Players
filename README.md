@@ -1,7 +1,5 @@
 # trending-FIFA-players
 
-# Trending-Fifa-Players-Webscrapping
-
 ## Problem statements
 This is a repository of web scrapping using selenium from [this website](https://sofifa.com/players).<br/>
 It scrapped 3000 trending FIFA players' data. We tried to understand:
