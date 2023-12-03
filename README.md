@@ -2,7 +2,19 @@
 
 ## Problem statements
 This is a trending FIFA player's data analysis project where we have done web scraping using selenium from this [website](https://sofifa.com/players).
-We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. 
+We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. There are 12 columns as given:
+  - Player_name
+  - Images
+  - Age
+  - National_team
+  - Positions
+  - Overall
+  - Potential_overall
+  - Current_club
+  - Current_contract
+  - Value
+  - Wage
+  - Total_stats
 Then we have done some data processing using Python libraries like pandas and re.
 By organising the data in Tableau, we tried to understand:
   1. Which country has how many players on the trending FIFA players website and what is the total value?
