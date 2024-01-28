@@ -1,4 +1,4 @@
-# Trending-FIFA-Players
+# Trending FIFA Players
 This is a trending FIFA player's data analysis project where we have done web scraping using selenium from this [website](https://sofifa.com/players).
 We scrapped 3000 trending FIFA players' data and stored them in an Excel sheet. There are 12 columns as given:
   - Player_name
